@@ -1,5 +1,10 @@
 
 #### [Current]
+ * 2017-06-21 [d0e3de6](../../commit/d0e3de6) - __(Simeon Movchan)__ Release 0.4.0.2
+ * 2017-06-21 [363f236](../../commit/363f236) - __(Simeon Movchan)__ chore: limit state_machines dependency < 0.5.0
+
+#### v0.4.0.1
+ * 2017-02-09 [5ecf34e](../../commit/5ecf34e) - __(Denis Korobicyn)__ Update CHANGELOG.md
  * 2017-02-09 [84318a6](../../commit/84318a6) - __(Denis Korobicyn)__ Release 0.4.0.1
  * 2016-12-14 [e0ac1a9](../../commit/e0ac1a9) - __(Artem Napolskih)__ Update state_machines-activemodel.gemspec
  * 2016-12-12 [389a070](../../commit/389a070) - __(Jean Boussier)__ Trigger I18n reload after adding locale
